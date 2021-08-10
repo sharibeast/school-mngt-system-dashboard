@@ -4,7 +4,7 @@ import TableResults from './TableResults';
 
 export default function Main() {
   return (
-    <div className="">
+    <div className="h-screen md:col-span-4">
       <div>
         <Name />
         <TableResults />
