@@ -1,5 +1,6 @@
 import React from 'react';
 import Name from './Name';
+import Subject from './Subject';
 import TableResults from './TableResults';
 
 export default function Main() {
@@ -9,6 +10,7 @@ export default function Main() {
         <Name />
         <TableResults />
       </div>
+      <Subject />
     </div>
   );
 }

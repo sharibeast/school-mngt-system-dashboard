@@ -3,7 +3,7 @@ import Main from './components/main/Main';
 import Nav from './components/navigation/Nav';
 function App() {
   return (
-    <div className="grid grid-cols-1 bg-coolgray md:grid-cols-8">
+    <div className="grid grid-cols-1 bg-yellow-100 md:grid-cols-8">
       {/* <div className="hidden h-screen bg-purple-600 md:col-span-2 md:block">
         Navigation
       </div> */}
